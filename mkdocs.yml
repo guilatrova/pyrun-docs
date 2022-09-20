@@ -3,6 +3,7 @@ nav:
   - Home: index.md
   - How it works: how-works.md
   - Creating content: creating-content.md
+  - Sharing snippets: sharing.md
 
 theme:
   name: material
