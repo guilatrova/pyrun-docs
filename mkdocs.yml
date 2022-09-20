@@ -1,4 +1,5 @@
 site_name: Pyrun
 nav:
   - Home: index.md
-  - About: about.md
+  - How it works: how-works.md
+theme: readthedocs
