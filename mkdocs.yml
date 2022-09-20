@@ -2,4 +2,7 @@ site_name: Pyrun
 nav:
   - Home: index.md
   - How it works: how-works.md
-theme: readthedocs
+  - Creating content: creating-content.md
+plugins:
+    - mkdocs-video
+theme: material
