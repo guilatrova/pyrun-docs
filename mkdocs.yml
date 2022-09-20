@@ -3,6 +3,31 @@ nav:
   - Home: index.md
   - How it works: how-works.md
   - Creating content: creating-content.md
+
+theme:
+  name: material
+  palette:
+    #1b9df0
+    - scheme: slate
+      primary: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    - scheme: default
+      primary: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+
 plugins:
     - mkdocs-video
-theme: material

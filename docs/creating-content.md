@@ -12,18 +12,20 @@ Here's a few examples on how to make it work:
 
 ## Linkedin
 
-> ⚠️ Linkedin limits image's ALT to 300 characters.
-> You can overcome this limit by modifying your HTML, examples on this below 👇
-
 ![type:video](./videos/creating-on-linkedin.mp4)
 
 ## Linkedin images with up to 1000 characters ALT
 
-If you need to share snippets with more text, you can literally just modify the HTML like a Ninja 🥷.
+
+!!! warning
+    Linkedin limits image's ALT to 300 characters.
+    You can overcome this limit by modifying your HTML.
+
+If you need to share snippets with more text, you can literally just modify the HTML just **like a Ninja** 🥷.
 
 Take as example this 532 length code:
 
-```python
+```py title="long_snippet.py"
 from typing import Generator
 
 def starting_five() -> Generator[int, None, None]:
