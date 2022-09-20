@@ -4,11 +4,11 @@ nav:
   - How it works: how-works.md
   - Creating content: creating-content.md
   - Sharing snippets: sharing.md
+  - Installing modules: installing-modules.md
 
 theme:
   name: material
   palette:
-    #1b9df0
     - scheme: slate
       primary: light blue
       toggle:
