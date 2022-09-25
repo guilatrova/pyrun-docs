@@ -11,4 +11,4 @@ Pyrun is an extension that integrates an IDE inside your **Twitter**, **Linkedin
 
 ## Get started
 
-You can install the extension from the [Chrome Webstore](https://chrome.google.com/webstore/detail/pyrun/mpkfgkeapfgoamnbdopmdlgilhjhiini?hl=en&authuser=0).
+You can install the extension from the [Chrome Webstore](https://chrome.google.com/webstore/detail/pyrun/mpkfgkeapfgoamnbdopmdlgilhjhiini?hl=en&authuser=0) or from [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/pyrun/).
